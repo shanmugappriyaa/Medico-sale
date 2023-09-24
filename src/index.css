@@ -1,0 +1,95 @@
+.container-bg{
+    background-color:whitesmoke ;
+}
+.input-icons i {
+    position: absolute;
+}
+ 
+.input-icons {
+    width: 100%;
+    margin-bottom: 10px;
+}
+.icon {
+    padding: 10px;
+    min-width: 50px;
+    text-align: center;
+    color: #ADA7A7;
+    top: 6px;
+}
+ 
+.form-control1{
+    width: 100%;
+    padding: 10px 10px 10px 40px;
+}
+.sidebar-brand{
+    color: #013CC6;
+font-family: Poppins;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+.sidebar-item{
+    color: #0B63F8;
+font-family: Poppins;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+letter-spacing: 0.32px;
+}
+.sidebar{
+    background-color:white;
+    padding:20px;
+}
+.sidebar-item-content{
+    color: #000;
+font-family: Poppins;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+letter-spacing: 0.32px;
+}
+.fa{
+    padding-right: 10px;
+}
+.sidebar-nav{
+    height:100vh;
+}
+.bell-box{
+    height: 40px;
+    width: 40px;
+    border: 1px solid #ADA7A7;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+}
+.notification-count-div{
+        border-radius: 50px;
+        background: #FFBC0F;
+        padding:3px;
+        position: absolute;
+        top: -4px;
+        right: -2px;
+    }
+    .invoice-color{
+        color: #0B63F8;
+font-family: Poppins;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+    }
+    .table-data{
+color: #000;
+font-family: Poppins;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+    }
+   body{
+    font-family: Poppins;
+   } 
