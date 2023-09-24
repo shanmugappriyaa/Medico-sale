@@ -20,13 +20,13 @@ function SalesInformation() {
                 </div>
 
                 {/* sales information form */}
-                <div className='row mb-4 mt-4'>
-                  <h4>Sales Information</h4>
+                <div className='row sale-info-heading mb-4 mt-4'>
+                  <span>Sales Information</span>
                 </div>
                 <form className="row g-3 needs-validation" noValidate>
                   <div className="col-md-3">
                     <label  className="form-label table-data">Customer</label>
-                    <input type="text" className="form-control" placeholder='Enter Costumer Name'/>
+                    <input type="text" className="form-control" placeholder='Enter Customer Name'/>
                   </div>
                   <div className="col-md-3">
                     <label  className="form-label table-data">Invoice ID</label>

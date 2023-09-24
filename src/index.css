@@ -23,20 +23,17 @@
 }
 .sidebar-brand{
     color: #013CC6;
-font-family: Poppins;
-font-size: 24px;
-font-style: normal;
+font-family: 'Poppins';
+font-size: 20px;
 font-weight: 500;
-line-height: normal;
+
 }
 .sidebar-item{
     color: #0B63F8;
-font-family: Poppins;
-font-size: 16px;
-font-style: normal;
+font-family: 'Poppins';
+font-size: 14px;
 font-weight: 400;
-line-height: normal;
-letter-spacing: 0.32px;
+
 }
 .sidebar{
     background-color:white;
@@ -44,11 +41,9 @@ letter-spacing: 0.32px;
 }
 .sidebar-item-content{
     color: #000;
-font-family: Poppins;
+font-family: 'Poppins';
 font-size: 16px;
-font-style: normal;
 font-weight: 400;
-line-height: normal;
 letter-spacing: 0.32px;
 }
 .fa{
@@ -76,20 +71,25 @@ letter-spacing: 0.32px;
     }
     .invoice-color{
         color: #0B63F8;
-font-family: Poppins;
-font-size: 16px;
+
+   font-size: 16px;
 font-style: normal;
 font-weight: 400;
-line-height: normal;
+
     }
     .table-data{
 color: #000;
-font-family: Poppins;
+font-family: 'Poppins';
 font-size: 16px;
-font-style: normal;
 font-weight: 400;
-line-height: normal;
+
     }
    body{
-    font-family: Poppins;
+    font-family: 'Poppins';
    } 
+   .sale-info-heading{
+color: #000;
+font-family: 'Poppins';
+font-size: 20px;
+font-weight: 500;
+   }
